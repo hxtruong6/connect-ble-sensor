@@ -1,7 +1,8 @@
 repo_name: hxtruong6/connect-ble-sensor
 report_id: 218e8cca6fd24eb9576ca887349acee7
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-14T05:14:38+00:00'
+timestamp: '2024-01-05T08:45:14+00:00'
 requested_by: hxtruong6
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/hxtruong6/connect-ble-sensor
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hxtruong6/connect-ble-sensor
   detection_source: Repo Metadata
